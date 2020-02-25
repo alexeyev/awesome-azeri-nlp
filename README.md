@@ -47,4 +47,4 @@ Also, a listed repository should be tagged as deprecated if:
 ## Miscellaneous
 * [Apertium page](http://wiki.apertium.org/wiki/Azerbaijani) -- a list of various online language-related resources 
 * [AZNLP github](https://github.com/aznlp) -- a repo hub with various language-related software: stemmer, POS-tagger
-* [jsoft.ws custom tools](https://jsoft.ws/index.php?key=Azerbaijani%20NLP) -- language-processing blog
+* [jsoft.ws](https://jsoft.ws/index.php?key=Azerbaijani%20NLP) -- language-processing blog
