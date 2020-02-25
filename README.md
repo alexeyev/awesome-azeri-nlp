@@ -13,3 +13,6 @@
 ### Data
 * aze_newscrawl_2011: https://corpora.uni-leipzig.de/en?corpusId=aze_newscrawl_2011 https://cls.corpora.uni-leipzig.de/en/aze_newscrawl_2011
 * New Testament, Helsinki University: http://www.ling.helsinki.fi/uhlcs/readme-all/README-turkic-lgs.html#C21
+
+### Pretrained
+* fastText 300-dimensional vectors: https://fasttext.cc/docs/en/crawl-vectors.html 
