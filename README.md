@@ -39,6 +39,10 @@ Also, a listed repository should be tagged as deprecated if:
 * [Azmorph](http://wiki.apertium.org/wiki/Azmorph) -- morphological analyzer for Azerbaijani (Azerbaycan dili), said to be in pre-ALPHA state
 * [Stemming paper, 2019](https://jpit.az/en/journals/227/) -- *AUTO STEMMING OF AZERBAIJANI LANGUAGE* by Morteza B. Hasan Alizadeh, Seyyed Amin H. Seyyedi
 
+#### Syntax <a name="syntax-s"></a>
+* TODO
+
+
 <a name="misc"></a>
 ## Miscellaneous
 * [Apertium page](http://wiki.apertium.org/wiki/Azerbaijani) -- a list of various online language-related resources 
