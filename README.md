@@ -1,6 +1,8 @@
 # Awesome Azeri NLP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Azerbaijani language processing frameworks, libraries, software and datasets. Inspired by `awesome-machine-learning`.
+A curated list of awesome Azerbaijani language processing software, models and datasets.
+
+Inspired by `awesome-machine-learning`.
 
 If you want to contribute to this list (please do), send me a pull request.
 Also, a listed repository should be tagged as deprecated if:
