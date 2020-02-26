@@ -33,9 +33,9 @@ Also, a listed repository should be tagged as deprecated if:
 * [Azeri at An Crúbadán](http://crubadan.org/languages/az) — 8M+ words, Latin script
 * [Domrachyov-Sudoplatova scraped corpus](https://github.com/svetlana21/Nutch_parser/) — 2189398 words, 100560 sentences
 
-**Corpora mentioned in the research papers**
+**Several corpora are also mentioned in research works:**
 * S. Mammadova, G. Azimova, and A. Fatullayev. 2010.Text corpora and its role in development of the linguistic technologies for the azerbaijani language.  In The Third International Conference Problems of Cybernetics and Informatics.
-* Baisa, Vıt, and Vıt Suchomel. "Large corpora for turkic languages and unsupervised morphological analysis." Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC’12), Istanbul, Turkey. European Language Resources Association (ELRA). 2012.
+* Baisa, Vıt, and Vıt Suchomel. "Large corpora for turkic languages and unsupervised morphological analysis." Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC’12), Istanbul, Turkey. European Language Resources Association (ELRA). 2012. [**SketchEngine corpora?**]
 * C. Biemann, S. Bordag, G. Heyer, U. Quasthoff, and C. Wolff. 2004. Language-independent  methods  for compiling monolingual lexical data. Computational linguistics and intelligent text processing, pages 217–228.
 * Domrachev M. A., Sudoplatova S. N. Testing Methods for Automatic Detection of Mor-
 pheme Boundaries in the Azerbaijani Language. Vestnik NSU. Series: Linguistics and Intercultural
