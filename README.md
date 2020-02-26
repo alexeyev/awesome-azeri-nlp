@@ -24,9 +24,15 @@ Also, a listed repository should be tagged as deprecated if:
 
 <a name="data"></a>
 ## Datasets
+
+#### Raw text
 * [University of Leipzig corpus collection](https://cls.corpora.uni-leipzig.de/en?corpusLanguage=aze#tblselect) — Newscrawl (2011, 2013) and Wikipedia (misc) datasets
 * [Helsinki University corpus](http://www.ling.helsinki.fi/uhlcs/readme-all/README-turkic-lgs.html#C21) — New Testament in the Azerbaijani language
 * [Latest **azwiki** dump](https://dumps.wikimedia.org/azwiki/latest/): [**download** directly](https://dumps.wikimedia.org/azwiki/latest/azwiki-latest-pages-articles.xml.bz2)
+
+#### Summarization
+* [AZ summarization](https://github.com/derintelligence/az-summarization) — articles and titles, available on request
+* [AZ-EN parallel corpus](https://github.com/derintelligence/en-az-parallel-corpus)  — 68K+ sentences, available on request
 
 <a name="pretrained-models"></a>
 ## Pretrained models
@@ -47,5 +53,5 @@ Also, a listed repository should be tagged as deprecated if:
 ## Miscellaneous
 * [Apertium page](http://wiki.apertium.org/wiki/Azerbaijani) — a list of various online language-related resources 
 * [AZNLP github](https://github.com/aznlp) — a repo hub with various language-related software: stemmer, POS-tagger
+* [MozillaAZ community spellchecker](https://github.com/mozillaz/spellchecker) — spellchecker plugin
 * [jsoft.ws](https://jsoft.ws/index.php?key=Azerbaijani%20NLP) — language processing blog posts
-* [Mozilla Spellchecker](https://github.com/mozillaz/spellchecker)
