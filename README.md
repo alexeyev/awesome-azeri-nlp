@@ -32,6 +32,8 @@ Also, a listed repository should be tagged as deprecated if:
 
 #### Summarization
 * [AZ summarization](https://github.com/derintelligence/az-summarization) — articles and titles, available on request
+
+#### Translation
 * [AZ-EN parallel corpus](https://github.com/derintelligence/en-az-parallel-corpus)  — 68K+ sentences, available on request
 
 <a name="pretrained-models"></a>
