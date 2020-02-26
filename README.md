@@ -74,10 +74,9 @@ Mentioned in:
 #### Syntax <a name="syntax-s"></a>
 * TODO
 
-
 <a name="demos"></a>
 ## Online Demos
-TODO
+* [Cyrillic ⇄ Latin conversion](http://www.ismanov.com/Projects/CyrLatConverter/index.php)  — PHP-based online tool
 
 <a name="misc"></a>
 ## Miscellaneous
