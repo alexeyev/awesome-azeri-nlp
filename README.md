@@ -51,7 +51,7 @@ TODO
 * [AZ-EN parallel corpus](https://github.com/derintelligence/en-az-parallel-corpus)  — 68K+ sentences, available on request
 
 #### Sentiment
-**Mentioned in:**
+Mentioned in:
 * [N. Gasimli's MS thesis](https://www.academia.edu/32330261/Analysis_of_the_use_of_Twitter_in_Azerbaijan) "Analysis of the use of Twitter in Azerbaijan"  —  2194+700 tweets
 
 <a name="pretrained-models"></a>
