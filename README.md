@@ -36,7 +36,9 @@ Also, a listed repository should be tagged as deprecated if:
 * S. Mammadova, G. Azimova, and A. Fatullayev. 2010.Text corpora and its role in development of the linguistic technologies for the azerbaijani language.  In The Third International Conference Problems of Cybernetics and Informatics.
 * Baisa, Vıt, and Vıt Suchomel. "Large corpora for turkic languages and unsupervised morphological analysis." Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC’12), Istanbul, Turkey. European Language Resources Association (ELRA). 2012.
 * C. Biemann, S. Bordag, G. Heyer, U. Quasthoff, and C. Wolff. 2004. Language-independent  methods  for compiling monolingual lexical data. Computational linguistics and intelligent text processing, pages 217–228.
-* Домрачев М. А., Судоплатова С. Н. (2018). Тестирование методов автоматического обнаружения границ морфем на материале азербайджанского языка. Вестник Новосибирского государственного университета. Серия: Лингвистика и межкультурная коммуникация, 16 (2), 34-47. [корпус](https://github.com/svetlana21/Nutch_parser/)
+* Domrachev M. A., Sudoplatova S. N. Testing Methods for Automatic Detection of Mor-
+pheme Boundaries in the Azerbaijani Language. Vestnik NSU. Series: Linguistics and Intercultural
+Communication , 2018, vol. 16, no. 2, p. 34–47. (in Russ.) [Downloadable corpus](https://github.com/svetlana21/Nutch_parser/)
 
 #### Machine-readable dictionaries
 TODO
@@ -59,7 +61,7 @@ TODO
 #### Morphology <a name="morphology-s"></a>
 * [Azmorph](http://wiki.apertium.org/wiki/Azmorph) — morphological analyzer for Azerbaijani (Azerbaycan dili), said to be in pre-ALPHA state; however, was [used for web corpora preparation](https://www.sketchengine.eu/wp-content/uploads/Large_Corpora_for_turkic_2012.pdf)
 * [Stemming paper, 2019](https://jpit.az/en/journals/227/) — *AUTO STEMMING OF AZERBAIJANI LANGUAGE* by Morteza B. Hasan Alizadeh, Seyyed Amin H. Seyyedi
-* [Wiktionary extraction word forms code](https://github.com/svetlana21/az_morphology) — 
+* [Wiktionary word forms extraction](https://github.com/svetlana21/az_morphology) — Python code on github
 
 #### Syntax <a name="syntax-s"></a>
 * TODO
@@ -73,4 +75,3 @@ TODO
 * [Apertium page](http://wiki.apertium.org/wiki/Azerbaijani) — a list of various online language-related resources 
 * [AZNLP github](https://github.com/aznlp) — a repo hub with various language-related software: stemmer, POS-tagger
 * [MozillaAZ community spellchecker](https://github.com/mozillaz/spellchecker) — spellchecker plugin
-* [jsoft.ws](https://jsoft.ws/index.php?key=Azerbaijani%20NLP) — language processing blog posts
