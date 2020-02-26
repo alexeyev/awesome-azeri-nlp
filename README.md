@@ -54,6 +54,7 @@ Also, a listed repository should be tagged as deprecated if:
 <a name="misc"></a>
 ## Miscellaneous
 * [Azeribaijani corpora data review](https://www.elibrary.ru/item.asp?id=37146771&) 
+* [Dilmanc](http://dilmanc.az/en/project/about)  — government-funded Azerbaijani language-related initiative
 * [Apertium page](http://wiki.apertium.org/wiki/Azerbaijani) — a list of various online language-related resources 
 * [AZNLP github](https://github.com/aznlp) — a repo hub with various language-related software: stemmer, POS-tagger
 * [MozillaAZ community spellchecker](https://github.com/mozillaz/spellchecker) — spellchecker plugin
