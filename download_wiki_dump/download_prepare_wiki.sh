@@ -38,4 +38,4 @@ python3 wikiextractor/WikiExtractor.py azwiki-latest-pages-articles.xml.bz2 --pr
 ###########################################################################################
 ###########################################################################################
 
-python3 bling_split.py azwiki-latest-pages-articles.txt
+python3 bling_split.py $WIKI_DUMP_FILE_OUT
