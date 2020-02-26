@@ -29,11 +29,14 @@ mentioned in the research papers
 * S. Mammadova, G. Azimova, and A. Fatullayev. 2010.Text corpora and its role in development of the linguistic technologies for the azerbaijani language.  In The Third International Conference Problems of Cybernetics and Informatics.
 * Baisa, Vıt, and Vıt Suchomel. "Large corpora for turkic languages and unsupervised morphological analysis." Proceedings of the Eighth conference on International Language Resources and Evaluation (LREC’12), Istanbul, Turkey. European Language Resources Association (ELRA). 2012.
 * C. Biemann, S. Bordag, G. Heyer, U. Quasthoff, and C. Wolff. 2004. Language-independent  methods  for compiling monolingual lexical data. Computational linguistics and intelligent text processing, pages 217–228.
+* Домрачев М. А., Судоплатова С. Н. (2018). Тестирование методов автоматического обнаружения границ морфем на материале азербайджанского языка. Вестник Новосибирского государственного университета. Серия: Лингвистика и межкультурная коммуникация, 16 (2), 34-47. [корпус](https://github.com/svetlana21/Nutch_parser/)
 
 #### Raw text
 * [University of Leipzig corpus collection](https://cls.corpora.uni-leipzig.de/en?corpusLanguage=aze#tblselect) — Newscrawl (2011, 2013) and Wikipedia (misc) datasets
 * [Helsinki University corpus](http://www.ling.helsinki.fi/uhlcs/readme-all/README-turkic-lgs.html#C21) — New Testament in the Azerbaijani language
 * [Latest **azwiki** dump](https://dumps.wikimedia.org/azwiki/latest/): [**download** directly](https://dumps.wikimedia.org/azwiki/latest/azwiki-latest-pages-articles.xml.bz2)
+* [Azeri at An Crúbadán](http://crubadan.org/languages/az) — 8M+ words, Latin script
+* [Domrachyov-Sudoplatova scraped corpus](https://github.com/svetlana21/Nutch_parser/) — 2189398 words, 100560 sentences
 
 #### Summarization
 * [AZ summarization](https://github.com/derintelligence/az-summarization) — articles and titles, available on request
@@ -53,6 +56,7 @@ mentioned in the research papers
 #### Morphology <a name="morphology-s"></a>
 * [Azmorph](http://wiki.apertium.org/wiki/Azmorph) — morphological analyzer for Azerbaijani (Azerbaycan dili), said to be in pre-ALPHA state; however, was [used for web corpora preparation](https://www.sketchengine.eu/wp-content/uploads/Large_Corpora_for_turkic_2012.pdf)
 * [Stemming paper, 2019](https://jpit.az/en/journals/227/) — *AUTO STEMMING OF AZERBAIJANI LANGUAGE* by Morteza B. Hasan Alizadeh, Seyyed Amin H. Seyyedi
+* [Wiktionary extraction word forms code](https://github.com/svetlana21/az_morphology) — 
 
 #### Syntax <a name="syntax-s"></a>
 * TODO
