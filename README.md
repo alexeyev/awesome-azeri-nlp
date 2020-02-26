@@ -50,6 +50,10 @@ TODO
 #### Translation
 * [AZ-EN parallel corpus](https://github.com/derintelligence/en-az-parallel-corpus)  — 68K+ sentences, available on request
 
+#### Sentiment
+**Mentioned in the MS thesis:**
+* 2194+700 tweets
+
 <a name="pretrained-models"></a>
 ## Pretrained models
 * [Polyglot morfessor](https://github.com/aboSamoor/polyglot/blob/master/docs/MorphologicalAnalysis.rst) —  pretrained [morfessor](http://www.cis.hut.fi/cis/projects/morpho/) model, number 53
@@ -61,8 +65,11 @@ TODO
 
 #### Morphology <a name="morphology-s"></a>
 * [Azmorph](http://wiki.apertium.org/wiki/Azmorph) — morphological analyzer for Azerbaijani (Azerbaycan dili), said to be in pre-ALPHA state; however, was [used for web corpora preparation](https://www.sketchengine.eu/wp-content/uploads/Large_Corpora_for_turkic_2012.pdf)
-* [Stemming paper, 2019](https://jpit.az/en/journals/227/) — *AUTO STEMMING OF AZERBAIJANI LANGUAGE* by Morteza B. Hasan Alizadeh, Seyyed Amin H. Seyyedi
 * [Wiktionary word forms extraction](https://github.com/svetlana21/az_morphology) — Python code on github
+
+**Mentioned in papers:**
+* [POS-tagging](https://www.researchgate.net/publication/334074082_Part-of-Speech_Tagging_for_Azerbaijani_Language) paper  —  Mammadov, S., Rustamov, S., Mustafali, A., Sadigov, Z., Mollayev, R., & Mammadov, Z. (2018, October). Part-of-Speech Tagging for Azerbaijani Language. In 2018 IEEE 12th International Conference on Application of Information and Communication Technologies (AICT) (pp. 1-6). IEEE.
+* [Stemming paper, 2019](https://jpit.az/en/journals/227/) — Alizadeh, M. B. H., & Seyyedi, S. A. H. (2019). AUTO STEMMING OF AZERBAIJANI LANGUAGE. Problems of Information Technology, 59-66.
 
 #### Syntax <a name="syntax-s"></a>
 * TODO
