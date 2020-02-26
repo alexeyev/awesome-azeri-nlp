@@ -2,7 +2,7 @@
 
 A curated list of awesome Azerbaijani language processing software, models and datasets. Inspired by [awesome-ML](https://github.com/josephmisiti/awesome-machine-learning). 
 
-
+The main focus is on open source tools and research papers with code.
 
 If you want to contribute to this list (please do), send me a pull request.
 Also, a listed repository should be tagged as deprecated if:
@@ -19,6 +19,7 @@ Also, a listed repository should be tagged as deprecated if:
   - [Methods/Software](#software)
       - [Morphology](#morphology-s)
       - [Syntax](#syntax-s)
+  - [Online Demos](#demos)
   - [Miscellaneous](#misc)
 <!-- /MarkdownTOC -->
 
@@ -66,6 +67,10 @@ TODO
 #### Syntax <a name="syntax-s"></a>
 * TODO
 
+
+<a name="demos"></a>
+## Online Demos
+TODO
 
 <a name="misc"></a>
 ## Miscellaneous
