@@ -40,6 +40,7 @@ Also, a listed repository should be tagged as deprecated if:
 * Domrachev M. A., Sudoplatova S. N. Testing Methods for Automatic Detection of Mor-
 pheme Boundaries in the Azerbaijani Language. Vestnik NSU. Series: Linguistics and Intercultural
 Communication , 2018, vol. 16, no. 2, p. 34–47. (in Russ.) [Downloadable corpus](https://github.com/svetlana21/Nutch_parser/)
+* Özenç B., Ehsani R., Solak E. Moraz: an open-source morphological analyzer for Azerbaijani Turkish //Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations. – 2018. – С. 25-29. [**BBC Azerbaijan**]
 
 #### Machine-readable dictionaries
 TODO
