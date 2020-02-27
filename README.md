@@ -66,6 +66,7 @@ Mentioned in:
 #### Morphology <a name="morphology-s"></a>
 * [Azmorph](http://wiki.apertium.org/wiki/Azmorph) — morphological analyzer for Azerbaijani (Azerbaycan dili), said to be in pre-ALPHA state; however, was [used for web corpora preparation](https://www.sketchengine.eu/wp-content/uploads/Large_Corpora_for_turkic_2012.pdf)
 * [Wiktionary word forms extraction](https://github.com/svetlana21/az_morphology) — Python code on github
+* [MorAz](https://github.com/berkeozenc/MorAz) — open-source morph. analyzer, [paper](https://www.aclweb.org/anthology/D18-2005v1.pdf), [demo](http://ddil.isikun.edu.tr/moraz/)
 
 **Mentioned in papers:**
 * [POS-tagging](https://www.researchgate.net/publication/334074082_Part-of-Speech_Tagging_for_Azerbaijani_Language) paper  —  Mammadov, S., Rustamov, S., Mustafali, A., Sadigov, Z., Mollayev, R., & Mammadov, Z. (2018, October). Part-of-Speech Tagging for Azerbaijani Language. In 2018 IEEE 12th International Conference on Application of Information and Communication Technologies (AICT) (pp. 1-6). IEEE. [**Probable implementation: [aznlp repo](https://github.com/aznlp/azerbaijani-language-pos-tagger)**]
