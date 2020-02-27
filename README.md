@@ -42,6 +42,9 @@ pheme Boundaries in the Azerbaijani Language. Vestnik NSU. Series: Linguistics a
 Communication , 2018, vol. 16, no. 2, p. 34–47. (in Russ.) [Downloadable corpus](https://github.com/svetlana21/Nutch_parser/)
 * Özenç B., Ehsani R., Solak E. Moraz: an open-source morphological analyzer for Azerbaijani Turkish //Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations. – 2018. – С. 25-29. [**BBC Azerbaijan**]
 
+#### Syntax
+* [UD project comments](https://universaldependencies.org/tr/) on difficulties in Turkish language processing, might bring light to the question why parsing Azeri is hard as well
+
 #### Machine-readable dictionaries
 TODO
 
