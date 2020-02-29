@@ -75,6 +75,7 @@ Mentioned in:
 **Mentioned in papers:**
 * [POS-tagging](https://www.researchgate.net/publication/334074082_Part-of-Speech_Tagging_for_Azerbaijani_Language) paper  —  Mammadov, S., Rustamov, S., Mustafali, A., Sadigov, Z., Mollayev, R., & Mammadov, Z. (2018, October). Part-of-Speech Tagging for Azerbaijani Language. In 2018 IEEE 12th International Conference on Application of Information and Communication Technologies (AICT) (pp. 1-6). IEEE. [**Probable implementation: [aznlp repo](https://github.com/aznlp/azerbaijani-language-pos-tagger)**]
 * [Stemming paper, 2019](https://jpit.az/en/journals/227/) — Alizadeh, M. B. H., & Seyyedi, S. A. H. (2019). AUTO STEMMING OF AZERBAIJANI LANGUAGE. Problems of Information Technology, 59-66.
+* [N. Gasimli's MS thesis](https://www.academia.edu/32330261/Analysis_of_the_use_of_Twitter_in_Azerbaijan) "Analysis of the use of Twitter in Azerbaijan"  — [Zemberek](https://github.com/ahmetaa/zemberek-nlp) is extended for Azerbaijani; though stated a lot of effort is still required for it to work properly for Azeri language.
 
 #### Syntax <a name="syntax-s"></a>
 * TODO
