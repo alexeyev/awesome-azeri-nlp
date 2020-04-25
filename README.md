@@ -31,6 +31,8 @@ Also, a listed repository should be tagged as deprecated if:
 * [Helsinki University corpus](http://www.ling.helsinki.fi/uhlcs/readme-all/README-turkic-lgs.html#C21) — New Testament in the Azerbaijani language
 * [Latest **azwiki** dump](https://dumps.wikimedia.org/azwiki/latest/): [**download** directly](https://dumps.wikimedia.org/azwiki/latest/azwiki-latest-pages-articles.xml.bz2)
 * [Azeri at An Crúbadán](http://crubadan.org/languages/az) — 8M+ words, Latin script
+* [**az-corpus-nlp**](https://github.com/raminrahimzada/az-corpus-nlp) —  2000+ texts, Latin script
+* [azWaC: Azerbaijani corpus from the web](https://www.sketchengine.eu/azwac-azerbaijani-corpus/) — SketchEngine-hosted corpus crawled from the web in 2012,  ~94 million words
 * [Domrachyov-Sudoplatova scraped corpus](https://github.com/svetlana21/Nutch_parser/) — 2189398 words, 100560 sentences
 
 **Several corpora are also mentioned in research works:**
