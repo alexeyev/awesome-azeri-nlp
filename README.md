@@ -88,6 +88,7 @@ Mentioned in:
 
 <a name="misc"></a>
 ## Miscellaneous
+* [Turkic languages-related resources](http://ddi.itu.edu.tr/en/toolsandresources) compiled by Dr. Gülşen Eryiğit and her team at Istanbul Technical University 
 * [Azeribaijani corpora data review](https://www.elibrary.ru/item.asp?id=37146771&) 
 * [Dilmanc](http://dilmanc.az/en/project/about)  — government-funded Azerbaijani language-related initiative
 * [Dilmanc EAMT paper](http://dilmanc.az/pdf/EAMT-2008-Fatullayev.pdf) on MT peculiarities
