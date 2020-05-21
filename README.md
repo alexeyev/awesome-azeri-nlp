@@ -33,7 +33,7 @@ Also, a listed repository should be tagged as deprecated if:
 * [Azeri at An Crúbadán](http://crubadan.org/languages/az) — 8M+ words, Latin script
 * [**az-corpus-nlp**](https://github.com/raminrahimzada/az-corpus-nlp) —  2000+ texts, Latin script
 * [azWaC: Azerbaijani corpus from the web](https://www.sketchengine.eu/azwac-azerbaijani-corpus/) — SketchEngine-hosted corpus crawled from the web in 2012,  ~94 million words
-* [Domrachyov-Sudoplatova scraped corpus](https://github.com/svetlana21/Nutch_parser/) — 2189398 words, 100560 sentences
+* [Domrachev-Sudoplatova scraped corpus](https://github.com/svetlana21/Nutch_parser/) — 2189398 words, 100560 sentences
 
 **Several corpora are also mentioned in research works:**
 * S. Mammadova, G. Azimova, and A. Fatullayev. 2010.Text corpora and its role in development of the linguistic technologies for the azerbaijani language.  In The Third International Conference Problems of Cybernetics and Informatics.
