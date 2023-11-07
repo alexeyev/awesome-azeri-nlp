@@ -59,6 +59,7 @@ TODO
 #### Sentiment
 Mentioned in:
 * [N. Gasimli's MS thesis](https://www.academia.edu/32330261/Analysis_of_the_use_of_Twitter_in_Azerbaijan) "Analysis of the use of Twitter in Azerbaijan"  —  2194+700 tweets
+* [Mammad Hajili's 160K customer reviews with scores and upvotes](https://huggingface.co/datasets/hajili/azerbaijani_review_sentiment_classification)
 
 <a name="pretrained-models"></a>
 ## Pretrained models
