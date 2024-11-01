@@ -34,7 +34,7 @@ Also, a listed repository should be tagged as deprecated if:
 * [**az-corpus-nlp**](https://github.com/raminrahimzada/az-corpus-nlp) —  2000+ texts, Latin script
 * [azWaC: Azerbaijani corpus from the web](https://www.sketchengine.eu/azwac-azerbaijani-corpus/) — SketchEngine-hosted corpus crawled from the web in 2012,  ~94 million words
 * [Domrachev-Sudoplatova scraped corpus](https://github.com/svetlana21/Nutch_parser/) — 2189398 words, 100560 sentences
-* [Azerbaijani Named Entity Recognition (NER) Dataset](https://huggingface.co/datasets/LocalDoc/azerbaijani-ner-dataset) — A dataset for training and evaluating NER models in Azerbaijani, including annotated text data with various named entities. :contentReference[oaicite:0]{index=0}
+* [Azerbaijani Named Entity Recognition (NER) Dataset](https://huggingface.co/datasets/LocalDoc/azerbaijani-ner-dataset) — A dataset for training and evaluating NER models in Azerbaijani, including annotated text data with various named entities. 
 
 **Several corpora are also mentioned in research works:**
 * S. Mammadova, G. Azimova, and A. Fatullayev. 2010.Text corpora and its role in development of the linguistic technologies for the azerbaijani language.  In The Third International Conference Problems of Cybernetics and Informatics.
