@@ -46,6 +46,7 @@ Communication , 2018, vol. 16, no. 2, p. 34–47. (in Russ.) [Downloadable corpu
 * Özenç B., Ehsani R., Solak E. Moraz: an open-source morphological analyzer for Azerbaijani Turkish //Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations. – 2018. – С. 25-29. [**BBC Azerbaijan**]
 
 #### Syntax
+* [UD_Azerbaijani-TueCL](https://github.com/UniversalDependencies/UD_Azerbaijani-TueCL): a treebank that contains a total of ~110 sentences including 20 Cairo sentences, and ~90 sentences suggested by UD Turkic Group; part of the UD Turkic Treebank. Translations of all the sentences are available in English, Turkish and Kyrgyz languages
 * [UD project comments](https://universaldependencies.org/tr/) on difficulties in Turkish language processing, might bring light to the question why parsing Azeri is hard as well
 
 #### Machine-readable dictionaries
